@@ -1,0 +1,10 @@
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\bin\Debug\itextsharp.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\bin\Debug\itextsharp.xml
+C:\Users\migue\source\repos\slnSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete

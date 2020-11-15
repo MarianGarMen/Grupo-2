@@ -1,0 +1,10 @@
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\bin\Debug\itextsharp.dll
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\bin\Debug\itextsharp.xml
+C:\Users\migue\source\repos\slnSistemaVentas\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
